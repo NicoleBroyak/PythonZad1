@@ -32,5 +32,5 @@ CalcVar = CreditTotal/10
 
 print("Month number 1:")
 CreditLeft = (1 + ((Inf1 + InterestRate)/CalcVar)) * CreditTotal - MonthlyPayment
-print("Your credit sum to pay is {CreditLeft}, it's {CreditTotal - CreditLeft} less than previous month").format(CreditLeft, CreditTotal - CreditLeft)
+print("Your credit sum to pay is {CreditLeft}, it's {CreditTotal - CreditLeft} less than in previous month").format(CreditLeft, CreditTotal - CreditLeft)
 CreditTotal=CreditLeft
