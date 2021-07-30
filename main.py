@@ -36,5 +36,212 @@ print("Credit left to pay is:")
 print(CreditLeft)
 print("It's:")
 print(CreditTotal - CreditLeft)
-print("less than previous month")
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 2:")
+CreditLeft = (1 + ((InterestRate + Inf2)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 3:")
+CreditLeft = (1 + ((InterestRate + Inf3)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 4:")
+CreditLeft = (1 + ((InterestRate + Inf4)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 5:")
+CreditLeft = (1 + ((InterestRate + Inf5)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 6:")
+CreditLeft = (1 + ((InterestRate + Inf6)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 7:")
+CreditLeft = (1 + ((InterestRate + Inf7)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 8:")
+CreditLeft = (1 + ((InterestRate + Inf8)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 9:")
+CreditLeft = (1 + ((InterestRate + Inf9)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 10:")
+CreditLeft = (1 + ((InterestRate + Inf10)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 11:")
+CreditLeft = (1 + ((InterestRate + Inf11)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 12:")
+CreditLeft = (1 + ((InterestRate + Inf12)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 13:")
+CreditLeft = (1 + ((InterestRate + Inf13)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 14:")
+CreditLeft = (1 + ((InterestRate + Inf14)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 15:")
+CreditLeft = (1 + ((InterestRate + Inf15)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 16:")
+CreditLeft = (1 + ((InterestRate + Inf16)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 17:")
+CreditLeft = (1 + ((InterestRate + Inf17)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 18:")
+CreditLeft = (1 + ((InterestRate + Inf18)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 19:")
+CreditLeft = (1 + ((InterestRate + Inf19)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 20:")
+CreditLeft = (1 + ((InterestRate + Inf20)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 21:")
+CreditLeft = (1 + ((InterestRate + Inf21)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 22:")
+CreditLeft = (1 + ((InterestRate + Inf22)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 23:")
+CreditLeft = (1 + ((InterestRate + Inf23)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
+CreditTotal = CreditLeft
+
+print("Month number 24:")
+CreditLeft = (1 + ((InterestRate + Inf24)/CalcVar)) * CreditTotal-MonthlyPayment
+print("Credit left to pay is:")
+print(CreditLeft)
+print("It's:")
+print(CreditTotal - CreditLeft)
+print("less than previous month\n")
 CreditTotal = CreditLeft
