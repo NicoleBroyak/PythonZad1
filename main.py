@@ -29,3 +29,8 @@ Inf22 = 1.16573339872354
 Inf23 = -0.404186717638335
 Inf24 = 1.49970852083123
 CalcVar = CreditTotal/10
+
+print("Month number 1:")
+CreditLeft = (1 + ((Inf1 + InterestRate)/CalcVar)) * CreditTotal - MonthlyPayment
+print(f"Your credit sum to pay is {CreditLeft}, it's {CreditTotal - CreditLeft} less than previous month").format(CreditLeft, CreditTotal - CreditLeft)
+CreditTotal=CreditLeft
