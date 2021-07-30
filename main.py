@@ -2,6 +2,8 @@ print("Type the total amount of credit:")
 CreditTotal = float(input())
 print("Type the monthly payment:")
 MonthlyPayment = float(input())
+print("Type interest rate")
+InterestRate = float(input())
 Inf1 = 1.59282448436825
 Inf2 = -0.453509101198007
 Inf3 = 2.32467171712441
@@ -26,5 +28,4 @@ Inf21 = -0.077420690314702
 Inf22 = 1.16573339872354
 Inf23 = -0.404186717638335
 Inf24 = 1.49970852083123
-CalcVar = 3
-CalcVar2 = CreditTotal/10
+CalcVar = CreditTotal/10
